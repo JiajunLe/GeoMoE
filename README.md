@@ -28,7 +28,7 @@ GeoMoE models two-view matching as motion-field consensus and explicitly decompo
 
 
 
-## Requirements and Compilation
+## Requirements 
 
 Please use Python 3.8.5, opencv-contrib-python (4.12.0.88) and Pytorch (>= 1.9.1). Other dependencies should be easily installed through pip or conda.
 
@@ -92,8 +92,8 @@ If you find this project useful, please cite:
   year={2026}
 }
 ```
-##Acknowledgement
-This code is borrowed from OANet, CLNet, and ConvMatch. If using the part of code related to data generation, testing and evaluation, please cite these papers.
+## Acknowledgement
+Parts of this code are adapted from DeMo and DeMatch. If you use any of the DeMo/DeMatch-derived code, please cite their papers.
 ```
 @inproceedings{lu2025demo,
   title={Deep Motion Field Consensus with Learnable Kernels for Two-view Correspondence Learning},
