@@ -1,3 +1,47 @@
+<p align="center">
+  <h1 align="center">Your Project Title</h1>
+</p>
+
+<p align="center">
+  <a href="https://your-homepage.com">First Author</a><sup>1</sup> ·
+  <a href="https://your-homepage.com">Second Author</a><sup>2</sup> ·
+  <a href="https://your-homepage.com">Third Author</a><sup>2</sup><br/>
+  <a href="https://your-homepage.com">Fourth Author</a><sup>1</sup> ·
+  <a href="https://your-homepage.com">Fifth Author</a><sup>2</sup>
+</p>
+
+<p align="center">
+  <sup>1</sup>Your University&nbsp;&nbsp;&nbsp;&nbsp;
+  <sup>2</sup>Your Company<br/>
+  <sup>†</sup>project lead&nbsp;&nbsp;&nbsp;&nbsp;
+  <sup>*</sup>corresponding author
+</p>
+
+<p align="center">
+  <a href="https://arxiv.org/abs/XXXX.XXXXX">
+    <img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg" />
+  </a>
+  <a href="https://your-paper-link">
+    <img src="https://img.shields.io/badge/Paper-PDF-orange.svg" />
+  </a>
+  <a href="https://your-project-page">
+    <img src="https://img.shields.io/badge/Project-Page-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/your/repo">
+    <img src="https://img.shields.io/badge/Code-GitHub-blue.svg" />
+  </a>
+  <a href="https://huggingface.co/your-model">
+    <img src="https://img.shields.io/badge/HuggingFace-Model-yellow.svg" />
+  </a>
+  <a href="https://your-demo-link">
+    <img src="https://img.shields.io/badge/Demo-Live-9cf.svg" />
+  </a>
+</p>
+
+---
+
+
+
 # GeoMoE: Divide-and-Conquer Motion Field Modeling with Mixture-of-Experts for Two-View Geometry
 
 [Paper](https://arxiv.org/abs/2508.00592) 
