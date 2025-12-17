@@ -1,10 +1,10 @@
 <p align="center">
-  <h1 align="center">Your Project Title</h1>
+  <h1 align="center">GeoMoE: Divide-and-Conquer Motion Field Modeling with Mixture-of-Experts for Two-View Geometry</h1>
 </p>
 
 <p align="center">
-  <a href="https://your-homepage.com">First Author</a><sup>1</sup> ·
-  <a href="https://your-homepage.com">Second Author</a><sup>2</sup> ·
+  <a href="https://scholar.google.com/citations?user=uWhzrG4AAAAJ&hl=zh-CN&oi=sra">Jiajun LeJiaJiJJaa<sup>1</sup> ·
+  <a href="https://scholar.google.com/citations?user=73trMQkAAAAJ&hl">Jiayi Ma</a><sup>2</sup> ·
   <a href="https://your-homepage.com">Third Author</a><sup>2</sup><br/>
   <a href="https://your-homepage.com">Fourth Author</a><sup>1</sup> ·
   <a href="https://your-homepage.com">Fifth Author</a><sup>2</sup>
