@@ -18,13 +18,9 @@
   </a>
 </p>
 
-<p align="center">
-  <embed src="assets/illustration.pdf" width="900" height="520" type="application/pdf">
-</p>
-
 
 ---
-
+[📄 View the figure (PDF)](assets/illustration.pdf)
 
 
 
