@@ -1,6 +1,6 @@
 # GeoMoE: Divide-and-Conquer Motion Field Modeling with Mixture-of-Experts for Two-View Geometry
 
-##[Paper](https://arxiv.org/abs/2508.00592) 
+[Paper](https://arxiv.org/abs/2508.00592) 
 
 [GeoMoE: Divide-and-Conquer Motion Field Modeling with Mixture-of-Experts for Two-View Geometry]
 [Jiajun Le](https://scholar.google.com/citations?user=uWhzrG4AAAAJ&hl=zh-CN&oi=sra), [Jiayi Ma](https://scholar.google.com/citations?user=73trMQkAAAAJ&hl) 
