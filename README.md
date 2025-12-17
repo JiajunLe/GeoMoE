@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=uWhzrG4AAAAJ&hl=zh-CN&oi=sra">Jiajun LeJiaJiJJaa<sup>1</sup> ·
+  <a href="https://scholar.google.com/citations?user=uWhzrG4AAAAJ&hl=zh-CN&oi=sra">Jiajun Le<sup></sup> ·
   <a href="https://scholar.google.com/citations?user=73trMQkAAAAJ&hl">Jiayi Ma</a><sup>2</sup> ·
   <a href="https://your-homepage.com">Third Author</a><sup>2</sup><br/>
   <a href="https://your-homepage.com">Fourth Author</a><sup>1</sup> ·
