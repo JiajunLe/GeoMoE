@@ -25,7 +25,6 @@ GeoMoE models two-view matching as motion-field consensus and explicitly decompo
 
 ---
 
-***
 
 If you find this project useful, please cite:
 
@@ -37,6 +36,7 @@ If you find this project useful, please cite:
   year={2026}
 }
 ```
+---
 
 ## Requirements and Compilation
 
