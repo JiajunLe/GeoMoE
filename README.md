@@ -22,7 +22,10 @@ GeoMoE models two-view matching as motion-field consensus and explicitly decompo
 <p align="center">
   <img src="assets/illu.png" width="900" />
 </p>
+
 ---
+
+***
 
 If you find this project useful, please cite:
 
