@@ -23,19 +23,6 @@ GeoMoE models two-view matching as motion-field consensus and explicitly decompo
   <img src="assets/illu.png" width="900" />
 </p>
 
-
-
-
-If you find this project useful, please cite:
-
-```
-@inproceedings{Le2026GeoMoE,
-  title={GeoMoE: Divide-and-Conquer Motion Field Modeling with Mixture-of-Experts for Two-View Geometry},
-  author={Le, Jiajun and Ma, Jiayi},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  year={2026}
-}
-```
 ---
 
 ## Requirements and Compilation
@@ -88,4 +75,17 @@ After generating dataset for YFCC100M, run the tranining script.
 ```bash
 cd ../core 
 python main.py
+```
+
+## Citation
+
+If you find this project useful, please cite:
+
+```
+@inproceedings{Le2026GeoMoE,
+  title={GeoMoE: Divide-and-Conquer Motion Field Modeling with Mixture-of-Experts for Two-View Geometry},
+  author={Le, Jiajun and Ma, Jiayi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2026}
+}
 ```
