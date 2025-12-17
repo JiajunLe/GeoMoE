@@ -20,7 +20,9 @@
 
 
 ---
-[📄 View the figure (PDF)](assets/illustration.pdf)
+<p align="center">
+  <img src="assets/illu.png" width="900" />
+</p>
 
 
 
