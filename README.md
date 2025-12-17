@@ -9,6 +9,9 @@
 
 <p align="center">
   <sup></sup>Wuhan University&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
   <sup>*</sup>Corresponding author
 </p>
 
@@ -23,7 +26,7 @@ GeoMoE models two-view matching as motion-field consensus and explicitly decompo
   <img src="assets/illu.png" width="900" />
 </p>
 
----
+
 
 ## Requirements and Compilation
 
