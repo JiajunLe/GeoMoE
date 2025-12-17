@@ -4,37 +4,17 @@
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=uWhzrG4AAAAJ&hl=zh-CN&oi=sra">Jiajun Le<sup></sup> ·
-  <a href="https://scholar.google.com/citations?user=73trMQkAAAAJ&hl">Jiayi Ma</a><sup>2</sup> ·
-  <a href="https://your-homepage.com">Third Author</a><sup>2</sup><br/>
-  <a href="https://your-homepage.com">Fourth Author</a><sup>1</sup> ·
-  <a href="https://your-homepage.com">Fifth Author</a><sup>2</sup>
+  <a href="https://scholar.google.com/citations?user=73trMQkAAAAJ&hl">Jiayi Ma</a><sup>*</sup> ·
 </p>
 
 <p align="center">
-  <sup>1</sup>Your University&nbsp;&nbsp;&nbsp;&nbsp;
-  <sup>2</sup>Your Company<br/>
-  <sup>†</sup>project lead&nbsp;&nbsp;&nbsp;&nbsp;
+  <sup></sup>Wuhan University&nbsp;&nbsp;&nbsp;&nbsp;
   <sup>*</sup>corresponding author
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXXX">
+  <a href="https://arxiv.org/abs/2508.00592">
     <img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg" />
-  </a>
-  <a href="https://your-paper-link">
-    <img src="https://img.shields.io/badge/Paper-PDF-orange.svg" />
-  </a>
-  <a href="https://your-project-page">
-    <img src="https://img.shields.io/badge/Project-Page-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/your/repo">
-    <img src="https://img.shields.io/badge/Code-GitHub-blue.svg" />
-  </a>
-  <a href="https://huggingface.co/your-model">
-    <img src="https://img.shields.io/badge/HuggingFace-Model-yellow.svg" />
-  </a>
-  <a href="https://your-demo-link">
-    <img src="https://img.shields.io/badge/Demo-Live-9cf.svg" />
   </a>
 </p>
 
