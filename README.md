@@ -92,3 +92,23 @@ If you find this project useful, please cite:
   year={2026}
 }
 ```
+##Acknowledgement
+This code is borrowed from OANet, CLNet, and ConvMatch. If using the part of code related to data generation, testing and evaluation, please cite these papers.
+```
+@inproceedings{lu2025demo,
+  title={Deep Motion Field Consensus with Learnable Kernels for Two-view Correspondence Learning},
+  author={Lu, Yifan and Le, Jiajun and Li, Zizhuo and Yuan, Yixuan and Ma, Jiayi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={6},
+  pages={5829--5837},
+  year={2025}
+}
+@inproceedings{zhang2024dematch,
+  title={Dematch: Deep decomposition of motion field for two-view correspondence learning},
+  author={Zhang, Shihua and Li, Zizhuo and Gao, Yuan and Ma, Jiayi},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={20278--20287},
+  year={2024}
+}
+```
