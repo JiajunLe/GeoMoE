@@ -9,12 +9,12 @@
 
 <p align="center">
   <sup></sup>Wuhan University&nbsp;&nbsp;&nbsp;&nbsp;
-  <sup>*</sup>corresponding author
+  <sup>*</sup>Corresponding author
 </p>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2508.00592">
-    <img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg" />
+    <img src="https://img.shields.io/badge/arXiv-GeoMoE-b31b1b.svg" />
   </a>
 </p>
 
