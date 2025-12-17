@@ -23,7 +23,7 @@
 
 GeoMoE models two-view matching as motion-field consensus and explicitly decomposes the global motion field into multiple sub-fields, each handled by a specialized Mixture-of-Experts module guided by inlier-prior cues. This decoupling reduces interference across motion regimes, yielding more reliable inlier prediction.
 <p align="center">
-  <img src="assets/illu.png" width="900" />
+  <img src="assets/illu.png" width="700" />
 </p>
 
 
